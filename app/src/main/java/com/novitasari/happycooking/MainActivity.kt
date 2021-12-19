@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.cardview.widget.CardView
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity() : AppCompatActivity(), View.OnClickListener {
     private lateinit var cvIntentT1: CardView
@@ -61,5 +62,9 @@ class MainActivity() : AppCompatActivity(), View.OnClickListener {
         }
 
 
-    }
+
 }
+
+
+}
+
