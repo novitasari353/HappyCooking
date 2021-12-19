@@ -16,7 +16,7 @@
         android:layout_height="150dp"
         android:layout_gravity="center"
         android:layout_marginTop="10dp"
-        android:src="@drawable/wingss"
+        android:src="@drawable/pizza"
         />
 
     <TextView
@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Chicken Wings"
+        android:text="Summer Vegetable Pizza"
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textStyle="bold"
@@ -40,7 +40,7 @@
         android:textStyle="bold"
         android:textSize="18sp"/>
     <TextView
-        android:id="@+id/bahan"
+        android:id="@+id/bahan6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="16sp"
@@ -62,7 +62,7 @@
 
 
     <WebView
-        android:id="@+id/step"
+        android:id="@+id/step6"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:scrollbarSize="16sp"

@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_main.xml" value="0.2106782106782107" />
+        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_meat1.xml" value="0.14356884057971014" />
+        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_meat2.xml" value="0.14356884057971014" />
+        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_rec1.xml" value="0.1490036231884058" />
+        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_rec2.xml" value="0.1490036231884058" />
         <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_splash.xml" value="0.11639492753623189" />
-        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_trending1.xml" value="0.33" />
+        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_trending1.xml" value="0.22" />
+        <entry key="..\:/HappyCooking/app/src/main/res/layout/activity_trending2.xml" value="0.25" />
         <entry key="..\:/HappyCooking/app/src/main/res/layout/card_layout.xml" value="0.12" />
       </map>
     </option>

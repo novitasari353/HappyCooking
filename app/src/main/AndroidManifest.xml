@@ -12,6 +12,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HappyCooking">
         <activity
+            android:name=".Meat1"
+            android:exported="true" />
+        <activity
+            android:name=".Meat2"
+            android:exported="true" />
+        <activity
+            android:name=".Rec2"
+            android:exported="true" />
+        <activity
+            android:name=".Rec1"
+            android:exported="true" />
+        <activity
+            android:name=".Trending2"
+            android:exported="true" />
+        <activity
             android:name=".Trending1"
             android:exported="true" />
         <activity
