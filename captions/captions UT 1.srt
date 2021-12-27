@@ -1,0 +1,352 @@
+1
+00:00:02,000 --> 00:00:07,000
+Assalamualikum Wr. Wb 
+
+2
+00:00:08,000 --> 00:00:12,000
+Waalaikumsalam Wr. Wb
+
+3
+00:00:12,000 --> 00:00:16,360
+sebelumnya terima kasih telah bergabung bersama saya
+
+4
+00:00:16,360 --> 00:00:19,360
+saya disini bersama Henhen Rismawati
+
+5
+00:00:20,360 --> 00:00:22,459
+iyah
+
+6
+00:00:22,459 --> 00:00:25,611
+sebelumnya izin memperkenalkan diri terlebih dahulu nama saya Novitasari
+
+7
+00:00:25,611 --> 00:00:30,600
+Saya developer dari aplikasi Happy Cooking
+
+8
+00:00:30,600 --> 00:00:35,000
+Disini saya akan menanyakan beberapa pertanyaan, mungkin dari profil terlebih dahulu
+
+9
+00:00:35,000 --> 00:00:39,320
+pekerjaan kakak saat ini apa?
+
+10
+00:00:42,320 --> 00:00:49,600
+untuk pekerjaan saat ini kebetulan saya masih mahasiswa
+
+11
+00:00:51,600 --> 00:00:53,600
+di salah satu perguruan tinggi di garut
+
+12
+00:00:56,251 --> 00:00:58,720
+untuk usianya berapa yah kak?
+
+13
+00:01:01,080 --> 00:01:04,080
+usianya 21 
+
+14
+00:01:08,080 --> 00:01:12,040
+jadi tujuan pertemuan ini saya akan melakukan user testing untuk aplikasi saya 
+
+15
+00:01:12,040 --> 00:01:16,480
+nama aplikasinya adalah Happy Cooking
+
+16
+00:01:17,480 --> 00:01:22,520
+sebelum ke tes aplikasi ini saya akan mengajukan beberapa pertanyaan
+
+17
+00:01:23,520 --> 00:01:28,680
+yang pertama, apakah kakak suka memasak?
+
+18
+00:01:30,680 --> 00:01:35,520
+kebetulan saya sangat suka memasak
+
+19
+00:01:40,520 --> 00:01:45,000
+kalau boleh tahu, makanan  apa saja yang biasa kakak masak
+
+20
+00:01:47,000 --> 00:01:58,480
+paling seperti oreg tempe, keripik, dan yang gampang-gampang
+
+21
+00:02:03,480 --> 00:02:09,480
+biasanya kalau memasak itu lihat resep atau sudah tahu betul resepnya?
+
+22
+00:02:12,480 --> 00:02:17,480
+paling untuk resep biasa lihat di youtube
+
+23
+00:02:17,480 --> 00:02:21,360
+yang lainnya sebisanya
+
+24
+00:02:27,360 --> 00:02:33,320
+kira-kira kakak tau tidak ada aplikasi yang berisi resep makann?
+
+25
+00:02:38,320 --> 00:02:45,280
+baru dengar, karena biasanya lihat resep itu kalau tidak di youtube ya dari buku resep
+
+26
+00:02:46,280 --> 00:02:49,240
+kalau aplikasi saya baru tahu
+
+27
+00:02:49,240 --> 00:02:54,520
+kalau tidak dari google berarti kaka lihat dari buku yah?
+
+28
+00:02:55,520 --> 00:02:56,680
+iyah
+
+29
+00:02:57,680 --> 00:03:02,600
+menurut kakak butuh aplikasi seperti itu atau tidak?
+
+30
+00:03:05,600 --> 00:03:15,600
+untuk orang yang suka memasak bisa membantu jika ada aplikasi seperti itu
+
+31
+00:03:18,600 --> 00:03:24,120
+Aplikasi seperti apa yang kakak harapkan untuk aplikasi memasak itu?
+
+32
+00:03:28,120 --> 00:03:30,353
+maksudnya bagaimana ya?
+
+33
+00:03:31,320 --> 00:03:39,000
+misalkan kakak ingin aplikasi yang bisa search menu atau apa?
+
+34
+00:03:43,000 --> 00:03:50,040
+bagusnya seperti itu jadi kita bisa bebas mencari masakan apa yang kita mau
+
+35
+00:03:56,040 --> 00:04:03,040
+selanjutnya mulai ke testing, saya akan mengirimkan 
+
+36
+00:04:03,040 --> 00:04:07,040
+ link untuk kakak mendownload aplikasi saya
+
+37
+00:04:10,040 --> 00:04:12,227
+saya kirim di chat zoom kak
+
+38
+00:04:14,200 --> 00:04:21,600
+teknisnya kakak diminta untuk share screen dan mulai dari mendownload aplikasi ini
+
+39
+00:04:21,600 --> 00:04:25,600
+dan nanti kakak bisa mencobanya dan akan saya pandu untuk penggunaannya
+
+40
+00:04:26,402 --> 00:04:31,402
+boleh dibuka dulu dan share screen
+
+41
+00:04:32,400 --> 00:04:33,533
+iya, baik 
+
+42
+00:05:09,520 --> 00:05:13,053
+Happy Cooking ya?
+
+43
+00:05:36,040 --> 00:05:37,760
+maaf lama yah
+
+44
+00:05:37,760 --> 00:05:38,694
+tidak apa-apa
+
+45
+00:05:38,694 --> 00:05:40,378
+ini akun google play nya akun kaka sendiri yah? 
+
+46
+00:05:42,777 --> 00:05:43,777
+iya
+
+47
+00:05:47,359 --> 00:05:48,084
+baik, bisa dibuka kak
+
+48
+00:05:48,485 --> 00:05:50,772
+baik saya buka dulu 
+
+49
+00:05:59,760 --> 00:06:01,978
+kakak menggunakan dark mode yah?
+
+50
+00:06:06,995 --> 00:06:07,835
+oh iya sebentar
+
+51
+00:06:19,800 --> 00:06:20,758
+sudah ya
+
+52
+00:06:21,720 --> 00:06:27,000
+sebelumnya izin menjelaskan ini adalah aplikasi yang saya buat
+
+53
+00:06:27,000 --> 00:06:34,480
+yaitu aplikasi yang berisi resep makanan, untuk saat ini baru menampilkan beberapa menu
+
+54
+00:06:34,480 --> 00:06:37,480
+ada trending, reccommendation, dan western food
+
+55
+00:06:37,480 --> 00:06:48,480
+disini kakak diminta untuk mencoba aplikasi ini dengan membuka semua menu
+
+56
+00:06:48,480 --> 00:06:52,480
+untuk melihat informasi yang ditampilkan dalam aplikasi ini
+
+57
+00:06:58,480 --> 00:06:58,980
+okee
+
+58
+00:07:03,866 --> 00:07:07,240
+ohh bahasa inggis yah
+
+59
+00:07:17,240 --> 00:07:24,880
+jadi untuk tampilannya ada gambar, judul, ingredients dan instruksinya
+
+60
+00:07:42,880 --> 00:07:50,560
+yang kedua ini tidak ada nomornya yah di instruksinya
+
+61
+00:08:45,560 --> 00:08:46,560
+ sudah kak
+
+62
+00:08:50,560 --> 00:08:59,791
+setelah mencoba aplikasinya apakah ada kendala?dimulai dari install sampai mencoba aplikasinya?
+
+63
+00:09:04,359 --> 00:09:18,000
+untuk kendala tidak ada, hanya saat penginstalan lama karena jaringan
+
+64
+00:09:21,000 --> 00:09:27,000
+Apakah informasi yang ditampilkan sudah sesuai atau belum?
+
+65
+00:09:33,000 --> 00:09:49,000
+untuk informasi sudah cukup dimulai dari menu, gambar, langkah-langkah, dan ingredientsnya
+
+66
+00:09:56,000 --> 00:10:01,320
+menurut kakak apakah aplikasi ini mudah digunakan atau tidak?
+
+67
+00:10:03,320 --> 00:10:10,320
+sangat mudah karena langsung klik dan muncul informasinya
+
+68
+00:10:18,320 --> 00:10:24,000
+untuk tampilannya bagaimana menurut kakak? dimulai dari warna, gambar dan lainnya
+
+69
+00:10:28,000 --> 00:10:42,040
+untuk tampilan sendiri sudah bagus ada trending, rekomendasi, gambar
+
+70
+00:10:50,040 --> 00:10:58,960
+menurut kakak apa yang menarik dari aplikasi ini?
+
+71
+00:11:03,960 --> 00:11:14,680
+hal yang menarik dari aplikasi ini yakni saat membuka langsung muncul apa yang trending
+
+72
+00:11:14,680 --> 00:11:30,680
+ada juga rekomendasi, yang tadinya kita bingung mau masak apa, jadi mendapat banyak rekomendasi
+
+73
+00:11:30,680 --> 00:11:33,160
+jadi tinggal pilih
+
+74
+00:11:39,160 --> 00:11:45,924
+apakah aplikasi ini membantu untuk kegiatan memasak?
+
+75
+00:11:50,920 --> 00:12:06,280
+akan sangat membantu karena kita tidak tahu semua resep masakan, dengan aplikasi ini kita jadi tau
+
+76
+00:12:11,280 --> 00:12:18,920
+terakhir, menurut kakak apa yang perlu diperbaiki dari aplikasi ini?
+
+77
+00:12:18,920 --> 00:12:23,600
+mungkin ada masukkan atau penamabahan apapun itu
+
+78
+00:12:28,600 --> 00:12:41,720
+sedikit masukkan, pertama dari bahasa karena ini memakai bahasa inggris sehingga saya sedikit pusing
+
+79
+00:12:41,720 --> 00:12:49,680
+untuk membacanya karena harus mengartikan terlebih dahulu
+
+80
+00:12:49,680 --> 00:12:54,227
+mungkin bahasanya bisa dirubah ke bahasa Indonesia
+
+81
+00:12:54,227 --> 00:13:05,200
+yang kedua yaitu fitur untuk searching menunya
+
+82
+00:13:12,200 --> 00:13:17,160
+pertanyaan dari saya sudah selesai, mungkin dari kakak ada tambahan lagi?
+
+83
+00:13:21,160 --> 00:13:37,480
+untuk tambahan yaitu menu yang belum ada nomor di langkahnya, sebaiknya diberi nomor agar enak kelihatannya
+
+84
+00:13:47,480 --> 00:13:54,000
+sepertinya cukup, terima kasih sudah bersedia menjadi tester untuk aplikasi saya
+
+85
+00:13:54,000 --> 00:13:58,499
+saya meminta maaf apabila mengganggu waktunya
+
+86
+00:13:58,499 --> 00:14:01,899
+sukses terus semoga kuliahnya lancar samapi selesai
+
+87
+00:14:03,880 --> 00:14:06,433
+terima kasih kak, Wassalamualaikum Wr. Wb
+
+88
+00:14:09,400 --> 00:14:14,400
+Waalaikumsalam Wr. Wb
+

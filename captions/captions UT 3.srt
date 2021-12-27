@@ -1,0 +1,360 @@
+1
+00:00:03,000 --> 00:00:04,000
+Assalamualaikum Wr.Wb
+
+2
+00:00:05,000 --> 00:00:08,000
+Waalaikumalam Wr. Wb
+
+3
+00:00:10,000 --> 00:00:19,720
+terima kasih kepada mbak Ai yang bersedia menjadi tester untuk aplikasi saya yakni Happy Cooking
+
+4
+00:00:21,720 --> 00:00:26,720
+izin memperkenalkan diri saya Novitasari developer aplikasi Happy Cooking
+
+5
+00:00:28,720 --> 00:00:36,280
+disini kita akan melakukan testing aplikasi, dan saya akan mengajukan bebrapa pertanyaan
+
+6
+00:00:38,280 --> 00:00:48,280
+sebelum itu saya ingin menanyakan identitas dulu, nama nya Ai Sumiati ya?
+
+7
+00:00:48,280 --> 00:00:49,280
+iya
+
+8
+00:00:52,280 --> 00:00:55,280
+pekerjaan saat ini apa ya mbak?
+
+9
+00:00:56,280 --> 00:00:59,400
+saat ini saya sebagai karyawan swasta di perusahaan logistik
+
+10
+00:01:01,400 --> 00:01:03,715
+sekaligus ibu rumah tangga
+
+11
+00:01:06,680 --> 00:01:07,550
+usianya berapa ya mbak?
+
+12
+00:01:07,550 --> 00:01:11,905
+usia saya saat ini 25 tahun
+
+13
+00:01:14,880 --> 00:01:16,040
+langsung ke pertanyaan saja
+
+14
+00:01:20,040 --> 00:01:24,164
+pertama, apakah mbak Ai suka memasak?
+
+15
+00:01:24,164 --> 00:01:28,030
+tentu saja saya suka memasak
+
+16
+00:01:29,000 --> 00:01:33,000
+makanan apa saja yang dimasak biasanya?
+
+17
+00:01:35,000 --> 00:01:43,690
+kalau saya biasanya masakan rumahan yang simple dan tidak butuh banyak bahan
+
+18
+00:01:43,690 --> 00:01:47,038
+seperti tumisan, gorengan seperti itu
+
+19
+00:01:48,000 --> 00:01:56,475
+kalau memasak biasanya lihat resep atau makanan yang sudah tahu resepnya?
+
+20
+00:01:57,440 --> 00:02:05,931
+kalau masakan yang biasa tidak perlu resep, kalau eksplore makanan tentunya perlu resep
+
+21
+00:02:08,920 --> 00:02:11,236
+biasanya kalau melihat resep darimana ya mabk?
+
+22
+00:02:12,200 --> 00:02:19,440
+biasanya lihat di cookpad karena semua muncul dan bisa di simpan
+
+23
+00:02:21,440 --> 00:02:26,640
+berarti mbak tau ya ada aplikasi yang berisi resep makanan seperti itu?
+
+24
+00:02:28,640 --> 00:02:34,075
+baru tahu saat liat google dan diarahin ke aplikasi itu
+
+25
+00:02:34,075 --> 00:02:37,080
+nama aplikasinya apa ya?
+
+26
+00:02:37,080 --> 00:02:38,109
+cookpad
+
+27
+00:02:45,080 --> 00:02:50,160
+apakah aplikasi itu membantu untuk memasak?
+
+28
+00:02:52,160 --> 00:02:57,517
+sejauh ini si cukup mudah karena tidak perlu mencari-cari
+
+29
+00:03:00,480 --> 00:03:11,480
+untuk pertanyaan pembukanya sudah cukup, selanjutnya memasuki testing aplikasi 
+
+30
+00:03:11,480 --> 00:03:16,480
+tadi saya sudah kirim ya link untuk mendownload aplikasinya
+
+31
+00:03:16,480 --> 00:03:25,480
+namun sebelumnya mbak diminta untuk share screen di awal sampai mencoba aplikasinya
+
+32
+00:03:33,480 --> 00:03:34,040
+sudah bisa dibuka sekarang?
+
+33
+00:03:35,040 --> 00:03:37,147
+iya silakan
+
+34
+00:04:22,120 --> 00:04:33,120
+sebelumnya izin menjelaskan, ini aplikasi Happy Cooking yang berisi menu dan resep makanan
+
+35
+00:04:33,120 --> 00:04:41,120
+jadi, mbak diminta untuk mencoba membuka semua menu dari trending, rekomendasi, dan western food
+
+36
+00:04:41,120 --> 00:04:46,120
+silakan dicoba untuk membuka menu nya
+
+37
+00:05:23,120 --> 00:05:32,840
+kalau dari segi tampilan cukup mudah namun dari segi bahasa yakni bahasa inggris, sulit dipahami
+
+38
+00:05:36,840 --> 00:05:44,840
+terus belum ada kolom search, jadi kita scroll satu per satu ke bawah
+
+39
+00:05:45,840 --> 00:05:47,017
+iya, belum ada untuk saat ini
+
+40
+00:05:48,000 --> 00:05:59,511
+masukannya itu, karena kita tidak mungkin scroll kebawah jika ingin memasak
+
+41
+00:05:59,511 --> 00:06:03,403
+jadi kalau case seperti ini kita harus scroll kebawah terus
+
+42
+00:06:03,403 --> 00:06:09,348
+jadi bisa dibayangkan jika menu yang ingin dimasak paling bawah, berapa lama kita harus scroll seperti itu
+
+43
+00:06:09,348 --> 00:06:11,380
+baik
+
+44
+00:06:11,380 --> 00:06:12,360
+dan bahasanya, mungkin bagi ibu rumah tangga akan kesulitan karena menggunkan bahasa asing
+
+45
+00:06:23,360 --> 00:06:28,558
+lebih baik menggunakna bahasa indonesia karena aplikasinya dipergunkana di indonesia
+
+46
+00:06:32,520 --> 00:06:34,520
+baik
+
+47
+00:06:34,520 --> 00:06:49,520
+lalu ada satu bagian stepnya ada yang digabung, baiknya dibuat step dengan nomor 1. 2, 3,.
+
+48
+00:06:49,520 --> 00:06:55,520
+idealnya seperti itu ya
+
+49
+00:06:55,520 --> 00:07:00,516
+jadi tidak digabung seperti cerita 
+
+50
+00:07:10,480 --> 00:07:11,430
+baik
+
+51
+00:07:16,400 --> 00:07:20,720
+ini belum bisa di save juga ya?
+
+52
+00:07:20,720 --> 00:07:22,690
+maaf mbak tidak terdengar suaranya disini berisik
+
+53
+00:07:23,680 --> 00:07:25,560
+bisa di save menu nya
+
+54
+00:07:42,560 --> 00:07:44,560
+iya, belum
+
+55
+00:07:55,560 --> 00:07:58,320
+dari segi tampilan bagaimana ? apakah menarik atau tidak?
+
+56
+00:08:01,320 --> 00:08:10,320
+kalau kualitas gambar cukup baik, hurufnya juga jelas
+
+57
+00:08:10,320 --> 00:08:14,254
+cuma hal-hal tadi saja yang harus ditambahkan
+
+58
+00:08:20,240 --> 00:08:27,240
+untuk penggunaan aplikasi dari awal download sampai membuka aplikasi apakah ada kendala?
+
+59
+00:08:32,240 --> 00:08:34,068
+sejauh ini si tidak
+
+60
+00:08:34,068 --> 00:08:39,040
+cuma ini tidak ada login ya? biasanya ada login email. ini langsung ya?
+
+61
+00:08:41,040 --> 00:08:48,040
+untuk saat ini belum, karena tujuannya agar pengguna langsung melihat menu tanpa harus login
+
+62
+00:08:48,040 --> 00:08:56,520
+kecuali apabila untuk save karena tentunya membutuhkan data. mungkin nanti akan disediakan login
+
+63
+00:08:59,437 --> 00:09:13,440
+karena saat ini baru mendisplay menu dan untuk memudahkan, jadi langsung ke menu belum ada login
+
+64
+00:09:13,440 --> 00:09:23,440
+itu mungkin akan menjadi pr saya kedepannya sekaligus dengan fitur save dan searching tadi
+
+65
+00:09:29,440 --> 00:09:42,440
+biasanya juga ada rate menu mana yang sering digunakan
+
+66
+00:09:42,440 --> 00:09:52,440
+dan menu yang banyak digunakan mungkin muncul paling atas
+
+67
+00:09:52,440 --> 00:09:54,440
+baik
+
+68
+00:09:54,440 --> 00:10:04,482
+misalkan kita searching dan menu paling atas berarti sudah banyak yang menggunkaan dan enak
+
+69
+00:10:04,482 --> 00:10:07,670
+baik
+
+70
+00:10:07,670 --> 00:10:17,360
+sepertinya cukup jika dari tampilan, hanya bahasa tadi
+
+71
+00:10:20,360 --> 00:10:22,464
+apakah ada lagi mbak?
+
+72
+00:10:25,440 --> 00:10:33,200
+apakah bisa melihat jumlah menu yang ada di aplikasi ini?
+
+73
+00:10:35,200 --> 00:10:42,200
+belum, untuk saat ini baru menu tadi
+
+74
+00:10:43,200 --> 00:10:56,200
+mungkin tidak dari 1 menu tapi muncul beberapa resep?
+
+75
+00:10:57,200 --> 00:11:02,200
+sejauh ini belum ya mbak
+
+76
+00:11:02,200 --> 00:11:06,079
+jadi baru dibuat pilihannya 1 per menu ya?
+
+77
+00:11:06,079 --> 00:11:08,672
+iya mbak
+
+78
+00:11:10,640 --> 00:11:21,960
+itu aja si, paling searching tadi yang sangat penting agar tidak scroll ke bawah
+
+79
+00:11:21,960 --> 00:11:30,960
+karena menyita waktu, lain halnya dengan adanya searching, jadi kita bisa langsung ke poinnya 
+
+80
+00:11:30,960 --> 00:11:35,960
+dan bahasa yang digunakan yaitu bahasa sehari-hari
+
+81
+00:11:35,960 --> 00:11:43,680
+baik mbak sarannya saya terima. terima kasih banyak dan masih banyak yang harus di improve
+
+82
+00:11:43,680 --> 00:11:55,680
+dan saya akan merangkum, yang diharapkan yaitu fitur search, save, bahasa indonesia
+
+83
+00:11:55,680 --> 00:11:56,280
+seperti itu ya?
+
+84
+00:11:56,280 --> 00:11:58,280
+ya betul
+
+85
+00:11:58,280 --> 00:12:05,429
+baik, pertanyaan dari saya sudah selesai dan juga testingnya
+
+86
+00:12:05,429 --> 00:12:08,400
+sebelumnya saya minta maaf apabila menggangu waktunya
+
+87
+00:12:08,400 --> 00:12:11,200
+dan terima kasih sudah bersedia menjadi tester
+
+88
+00:12:11,200 --> 00:12:14,276
+semoga lancar terus pekerjaannya
+
+89
+00:12:14,276 --> 00:12:17,413
+Wassalamualaikum Wr. Wb
+
+90
+00:12:17,413 --> 00:12:19,961
+Waalaikumsalam Wr. Wb
+
